@@ -1,0 +1,2 @@
+## Coding Practice for Onboarding
+This repo is showing my tests and projects from the Udemy Python course. I am adding in new files as I comlete them so that everyone can see what methods and other operations I have been refreshing on.
